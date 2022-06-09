@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/messagebird/sachet"
+	"github.com/flycun/sachet"
 )
 
 // sachet section.

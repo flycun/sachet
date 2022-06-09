@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/messagebird/sachet"
+	"github.com/flycun/sachet"
 )
 
 type Config struct {

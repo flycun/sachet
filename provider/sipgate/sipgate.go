@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/messagebird/sachet"
+	"github.com/flycun/sachet"
 )
 
 const sipgateURL = "https://api.sipgate.com/v2/sessions/sms"

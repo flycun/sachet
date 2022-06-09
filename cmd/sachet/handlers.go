@@ -9,8 +9,7 @@ import (
 	"strings"
 
 	"github.com/prometheus/alertmanager/template"
-
-	"github.com/messagebird/sachet"
+	"github.com/flycun/sachet"
 )
 
 type handlers struct{}

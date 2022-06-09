@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/messagebird/sachet"
+	"github.com/flycun/sachet"
 )
 
 // Retrieving required data from 'ghasedak' sections of config.yaml.

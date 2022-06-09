@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/messagebird/sachet"
+	"github.com/flycun/sachet"
 )
 
 // Config configuration struct for mediaburst Client.
